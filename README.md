@@ -227,4 +227,4 @@ Bu işlem `dist_installer/ASR_Desktop_v1.0_Setup.exe` kurulum paketini otomatik 
 ## 📄 Lisans ve Telif Hakkı
 
 Telif Hakkı © 2026 Ali Arda Duran / ASR Systems. Tüm Hakları Saklıdır.  
-Detaylı yasal şartlar ve kullanım lisansı için lütfen `LICENSE.txt` belgesini inceleyiniz.
+Detaylı yasal şartlar ve kullanım lisansı için lütfen [LICENSE](LICENSE) belgesini inceleyiniz.
