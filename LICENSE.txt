@@ -1,0 +1,28 @@
+﻿================================================================================
+ASR (Personal Intelligence System) - SON KULLANICI LISANS SOZLESMESI (EULA)
+================================================================================
+
+Bu yazilimi yukleyerek veya kullanarak asagidaki sartlari kabul etmis sayilirsiniz:
+
+1. LISANS HAKKI
+ASR Systems, bu yazilimin kisisel ve kurumsal uretkenlik amaciyla
+kullanilmasi icin munhasir olmayan bir kullanim lisansi tanir.
+
+2. VERI GIZLILIGI VE YEREL DEPOLAMA
+ASR Desktop, kullanici verilerini (gorevler, takvim kayitlari, notlar, aliskanliklar)
+yerel SQLite veritabaninda saklar. API anahtarlariniz (OpenAI, Gemini vb.) isletim 
+sisteminizin guvenli kimlik kasasinda (Windows Credential Manager / DPAPI) kriptolanir. 
+Ucuncu sahis yapay zeka saglayicilariyla paylasilan veriler, kullanicinin kendi 
+belirledigi API kotalari ve gizlilik politikalari kapsamindadir.
+
+3. KULLANIM SARTLARI
+Yazilimin kaynak kodlarini izinsiz kopyalamak, tersine muhendislik uygulamak veya 
+yetkisiz dagitimini yapmak telif haklari mevzuatina tabidir.
+
+4. SORUMLULUK REDDI
+Yazilim "OLDUGU GIBI" sunulmakta olup; donanim arizasi veya kullanici kaynakli veri 
+kayiplarindan dogabilecek zararlardan gelistirici sorumlu tutulamaz. Duzenli veri 
+yedeklemesi yapilmasi tavsiye edilir.
+
+Copyright (C) 2026 Ali Arda Duran. Tum Haklari Saklidir.
+================================================================================
