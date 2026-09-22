@@ -24,7 +24,7 @@ Bulut tabanlı servislerin veri gizliliği açıklarına ve dikkat dağıtıcı 
 
 ### 1. 📅 42 Hücreli Dinamik Takvim & Ajanda Motoru
 * **Gelişmiş Matris Hesaplama:** Ayın ilk gününe göre dinamik pazartesi hizalaması, önceki ve sonraki aylardan taşan günlerin görsel ayrımı.
-* **Akıllı Hafta Sonu & Tatil Sistemi:** Hafta sonları ve 2026-2100 yılları arasındaki resmi ve dini tatilleri otomatik algılayan renkli vurgulama motoru.
+* **Akıllı Hafta Sonu & Tatil Sistemi:** Hafta sonları ve 2000-2100 yılları arasındaki resmi ve dini tatilleri otomatik algılayan renkli vurgulama motoru.
 * **Hızlı Gün Detayı:** Herhangi bir güne tıklandığında görevleri, saatlik randevuları ve günlük notları listeleyen modal diyalog.
 * **Hızlı Tarih Atlama:** Ay/Yıl seçici ile istenen tarihe tek tıkla geçiş; "Bugün" butonu ile anında güncel güne dönüş.
 
